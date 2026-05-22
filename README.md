@@ -1,6 +1,6 @@
 # Static "Docker-Folder" Icons for unRAID
 
-> **Notice:** This repository is a fork. All icons provided in this collection have been modified to be **static (non-animated) versions** of the originals.
+> **Notice:** This repository is a fork. All icons provided in this collection have been modified to be **static (non-animated) versions** of the originals. All .svgs were updated using a script. As a result, many are broken and need manually updated.
 
 ---
 
