@@ -5,14 +5,16 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500"
 	 style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#E1F3FD;}
-	.st1{fill:#555;}
-	.st2{fill:#d90000;}
+<![CDATA[
+.st0{fill:#E1F3FD}.st1{fill:#555}.st2{fill:#d90000}
+]]>
 </style>
 
     <style>
-        <![CDATA[#er0zs9ajx7h85_tr {animation: er0zs9ajx7h85_tr__tr 8000ms linear infinite normal forwards}@keyframes er0zs9ajx7h85_tr__tr { 0% {transform: translate(250.589844px,249.511719px) rotate(0deg)} 30% {transform: translate(250.589844px,249.511719px) rotate(0deg);animation-timing-function: cubic-bezier(0.600000,-0.020000,0.245000,0.985000)} 54% {transform: translate(250.589844px,249.511719px) rotate(360deg)} 100% {transform: translate(250.589844px,249.511719px) rotate(360deg)} } }]]>
-    </style>
+<![CDATA[
+}
+]]>
+</style>
 
 <g id="elfg01kjal72" transform="matrix(4 0 0 4 -806.00646972499999 -2320.39990236499943)">
 	<path id="elfg01kjal73" class="st0" d="M326.5,642.5c0,15.6,0,31.3,0,46.9c0,7.2-5.4,13.7-12.5,15.1c-1,0.2-2.1,0.3-3.2,0.3

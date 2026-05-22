@@ -1,14 +1,13 @@
 <svg id="e7c3754fjifg1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
-        <![CDATA[#e7c3754fjifg1{pointer-events: all} #e7c3754fjifg1:hover * {animation-play-state: running !important}#e7c3754fjifg6 {animation: e7c3754fjifg6_f_o 2000ms linear infinite normal forwards}@keyframes e7c3754fjifg6_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 15% {fill-opacity: 0;animation-timing-function: step-end} 50% {fill-opacity: 0;animation-timing-function: step-end} 85% {fill-opacity: 1} 100% {fill-opacity: 1} }#e7c3754fjifg7 {animation: e7c3754fjifg7_f_o 2000ms linear infinite normal forwards}@keyframes e7c3754fjifg7_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 25% {fill-opacity: 0;animation-timing-function: step-end} 50% {fill-opacity: 0;animation-timing-function: step-end} 75% {fill-opacity: 1} 100% {fill-opacity: 1} }#e7c3754fjifg8 {animation: e7c3754fjifg8_f_o 2000ms linear infinite normal forwards}@keyframes e7c3754fjifg8_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 35% {fill-opacity: 0;animation-timing-function: step-end} 50% {fill-opacity: 0;animation-timing-function: step-end} 65% {fill-opacity: 1} 100% {fill-opacity: 1} }]]>
-    </style>
+<![CDATA[
+#e7c3754fjifg1{pointer-events: all}
+]]>
+</style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{display:none;}
-	.st2{display:inline;}
-	.st3{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
-	.st4{fill:#DDDDDD;}
-	.st5{fill:#01507B;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{display:none}.st2{display:inline}.st3{fill:#FFFFFF; stroke:#01507B; stroke-width:20; stroke-miterlimit:16}.st4{fill:#DDDDDD}.st5{fill:#01507B}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="381.802" cy="385.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#8C8C8C"/>

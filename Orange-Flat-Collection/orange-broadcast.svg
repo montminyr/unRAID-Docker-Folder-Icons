@@ -2,97 +2,10 @@
     <defs>
         <clipPath id="eaf-9811-1"><rect x="0" y="0" width="500" height="500"></rect></clipPath>
         <style>
-            #eaf-9811-0 * {
-                animation: 4500ms linear infinite normal both running;
-                offset-rotate: 0deg;
-            }
-            @keyframes eaf-9811-2 {
-                0%,
-                100% {
-                    transform: translate(256.3862px, 154.2px);
-                }
-            }
-            @keyframes eaf-9811-3 {
-                0% {
-                    transform: scale(0, 0);
-                    animation-timing-function: ease-in;
-                }
-                66.67%,
-                100% {
-                    transform: scale(4.2, 4.2);
-                }
-            }
-            @keyframes eaf-9811-4 {
-                0%,
-                100% {
-                    transform: translate(-256.3862px, -154.2px);
-                }
-            }
-            @keyframes eaf-9811-5 {
-                0% {
-                    opacity: 1;
-                }
-                42.96% {
-                    opacity: 1;
-                    animation-timing-function: ease-in;
-                }
-                56.29%,
-                100% {
-                    opacity: 0;
-                }
-            }
-            @keyframes eaf-9811-6 {
-                0% {
-                    transform: scale(0, 0);
-                }
-                16.29% {
-                    transform: scale(0, 0);
-                    animation-timing-function: ease-in;
-                }
-                82.96%,
-                100% {
-                    transform: scale(4.2, 4.2);
-                }
-            }
-            @keyframes eaf-9811-7 {
-                0% {
-                    opacity: 1;
-                }
-                60.73% {
-                    opacity: 1;
-                    animation-timing-function: ease-in;
-                }
-                72.58%,
-                100% {
-                    opacity: 0;
-                }
-            }
-            @keyframes eaf-9811-8 {
-                0% {
-                    transform: scale(0, 0);
-                }
-                33.33% {
-                    transform: scale(0, 0);
-                    animation-timing-function: ease-in;
-                }
-                100% {
-                    transform: scale(4.2, 4.2);
-                }
-            }
-            @keyframes eaf-9811-9 {
-                0% {
-                    opacity: 1;
-                }
-                77.78% {
-                    opacity: 1;
-                    animation-timing-function: ease-in;
-                }
-                89.62%,
-                100% {
-                    opacity: 0;
-                }
-            }
-        </style>
+<![CDATA[
+#eaf-9811-0 *{offset-rotate: 0deg}
+]]>
+</style>
     </defs>
     <g clip-path="url('#eaf-9811-1')" style="isolation: isolate;">
         <g>
@@ -106,19 +19,16 @@
                 fill="#ffffff"
                 d="m335.2 154.3c-7 0 -10.9 -4.7 -11.8 -13.8c-2.6 -28.5 -20.4 -48.1 -47.5 -52.6c-1.7 -0.3 -3.5 -0.4 -5.4 -0.5c-0.5 0 -1 0 -1.5 -0.1c-8.3 -0.5 -12.9 -4.9 -12.6 -12.2c0.2 -7.1 4.8 -11.2 12.6 -11.2c0.3 0 0.6 0 0.9 0c0.3 0 0.6 0 0.9 0l1.9 0c39.7 1.7 73.1 35.7 74.3 75.9c0.3 8.6 -3.9 14 -11.2 14.4c-0.1 0.1 -0.4 0.1 -0.6 0.1z"
                 transform="matrix(0 0 0 0 256.3862 154.2)"
-                style="animation-name: eaf-9811-2, eaf-9811-3, eaf-9811-4, eaf-9811-5; animation-composition: replace, add, add, replace;"
             ></path>
             <path
                 fill="#ffffff"
                 d="m335.2 154.3c-7 0 -10.9 -4.7 -11.8 -13.8c-2.6 -28.5 -20.4 -48.1 -47.5 -52.6c-1.7 -0.3 -3.5 -0.4 -5.4 -0.5c-0.5 0 -1 0 -1.5 -0.1c-8.3 -0.5 -12.9 -4.9 -12.6 -12.2c0.2 -7.1 4.8 -11.2 12.6 -11.2c0.3 0 0.6 0 0.9 0c0.3 0 0.6 0 0.9 0l1.9 0c39.7 1.7 73.1 35.7 74.3 75.9c0.3 8.6 -3.9 14 -11.2 14.4c-0.1 0.1 -0.4 0.1 -0.6 0.1z"
                 transform="matrix(0 0 0 0 256.3862 154.2)"
-                style="animation-name: eaf-9811-2, eaf-9811-6, eaf-9811-4, eaf-9811-7; animation-composition: replace, add, add, replace;"
             ></path>
             <path
                 fill="#ffffff"
                 d="m335.2 154.3c-7 0 -10.9 -4.7 -11.8 -13.8c-2.6 -28.5 -20.4 -48.1 -47.5 -52.6c-1.7 -0.3 -3.5 -0.4 -5.4 -0.5c-0.5 0 -1 0 -1.5 -0.1c-8.3 -0.5 -12.9 -4.9 -12.6 -12.2c0.2 -7.1 4.8 -11.2 12.6 -11.2c0.3 0 0.6 0 0.9 0c0.3 0 0.6 0 0.9 0l1.9 0c39.7 1.7 73.1 35.7 74.3 75.9c0.3 8.6 -3.9 14 -11.2 14.4c-0.1 0.1 -0.4 0.1 -0.6 0.1z"
                 transform="matrix(0 0 0 0 256.3862 154.2)"
-                style="animation-name: eaf-9811-2, eaf-9811-8, eaf-9811-4, eaf-9811-9; animation-composition: replace, add, add, replace;"
             ></path>
             <g>
                 <path

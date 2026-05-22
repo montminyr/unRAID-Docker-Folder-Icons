@@ -1,7 +1,9 @@
 <svg id="ef20ojojlv51" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
-        <![CDATA[#ef20ojojlv51{pointer-events: all} #ef20ojojlv51:hover * {animation-play-state: running !important}#ef20ojojlv54_tr {animation: ef20ojojlv54_tr__tr 11500ms linear infinite normal forwards}@keyframes ef20ojojlv54_tr__tr { 0% {transform: translate(381.556015px,384.486542px) rotate(0deg)} 100% {transform: translate(381.556015px,384.486542px) rotate(-360deg)} }]]>
-    </style>
+<![CDATA[
+#ef20ojojlv51{pointer-events: all}
+]]>
+</style>
     <g id="ef20ojojlv52" transform="matrix(4 0 0 4 -761.40002440000001 -2310.82312011999920)">
         <path
             id="ef20ojojlv53"

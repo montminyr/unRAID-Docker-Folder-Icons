@@ -1,7 +1,9 @@
 <svg id="e752kylq1w3q1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
-        <![CDATA[#e752kylq1w3q1{pointer-events: all} #e752kylq1w3q1:hover * {animation-play-state: running !important}#e752kylq1w3q4_to {animation: e752kylq1w3q4_to__to 3000ms linear infinite normal forwards}@keyframes e752kylq1w3q4_to__to { 0% {transform: translate(384.499664px,385.427155px)} 33.333333% {transform: translate(384.499664px,385.427155px)} 36.666667% {transform: translate(384.499963px,399.911284px)} 40% {transform: translate(384.499664px,385.427155px)} 50% {transform: translate(384.499664px,385.427155px)} 53.333333% {transform: translate(384.500000px,374.564058px)} 56.666667% {transform: translate(384.499664px,385.427155px)} 66.666667% {transform: translate(384.499664px,385.427155px)} 70% {transform: translate(384.500000px,398.100768px)} 73.333333% {transform: translate(384.499664px,385.427155px)} 100% {transform: translate(384.499664px,385.427155px)} }#e752kylq1w3q4_tr {animation: e752kylq1w3q4_tr__tr 3000ms linear infinite normal forwards}@keyframes e752kylq1w3q4_tr__tr { 0% {transform: rotate(0deg);animation-timing-function: step-end} 33.333333% {transform: rotate(-5deg);animation-timing-function: step-end} 36.666667% {transform: rotate(5deg);animation-timing-function: step-end} 40% {transform: rotate(0deg);animation-timing-function: step-end} 50% {transform: rotate(5deg);animation-timing-function: step-end} 53.333333% {transform: rotate(-5deg);animation-timing-function: step-end} 56.666667% {transform: rotate(0deg);animation-timing-function: step-end} 66.666667% {transform: rotate(-5deg);animation-timing-function: step-end} 70% {transform: rotate(5deg);animation-timing-function: step-end} 73.333333% {transform: rotate(0deg)} 100% {transform: rotate(0deg)} }]]>
-    </style>
+<![CDATA[
+#e752kylq1w3q1{pointer-events: all}
+]]>
+</style>
     <g id="e752kylq1w3q2" transform="matrix(4 0 0 4 -842.94323730499991 -2257.32641599500039)">
         <path
             id="e752kylq1w3q3"

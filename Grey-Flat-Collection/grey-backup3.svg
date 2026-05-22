@@ -2,56 +2,10 @@
     <defs>
         <clipPath id="eaf-1566-1"><rect x="0" y="0" width="500" height="500"></rect></clipPath>
         <style>
-            #eaf-1566-0 * {
-                animation: 20000ms linear infinite normal both running;
-                offset-rotate: 0deg;
-            }
-            @keyframes eaf-1566-2 {
-                0% {
-                    fill: #f4b526;
-                }
-                25% {
-                    fill: #f4b526;
-                    animation-timing-function: ease-in-out;
-                }
-                35% {
-                    fill: #fefadf;
-                }
-                65% {
-                    fill: #fefadf;
-                    animation-timing-function: ease-in-out;
-                }
-                75%,
-                100% {
-                    fill: #f4b526;
-                }
-            }
-            @keyframes eaf-1566-3 {
-                0%,
-                100% {
-                    transform: translate(250.3px, 249.7px);
-                }
-            }
-            @keyframes eaf-1566-4 {
-                0% {
-                    transform: rotate(0);
-                    animation-timing-function: ease-in-out;
-                }
-                50% {
-                    transform: rotate(180deg);
-                    animation-timing-function: ease-in-out;
-                }
-                100% {
-                    transform: rotate(0);
-                }
-            }
-            @keyframes eaf-1566-5 {
-                0%,
-                100% {
-                    transform: translate(-250.3px, -249.7px);
-                }
-            }
-        </style>
+<![CDATA[
+#eaf-1566-0 *{offset-rotate: 0deg}
+]]>
+</style>
     </defs>
     <g clip-path="url('#eaf-1566-1')" style="isolation: isolate;">
         <g>
@@ -61,7 +15,7 @@
                     d="m331.8 626.1c0 15.6 0 31.3 0 46.9c0 7.2 -5.4 13.7 -12.5 15.1c-1 0.2 -2.1 0.3 -3.2 0.3c-31.2 0 -62.4 0 -93.6 0c-7.6 0 -14.3 -5.9 -15.3 -13.5c-0.1 -0.7 -0.1 -1.4 -0.1 -2c0 -31.3 0 -62.5 0 -93.8c0 -7.2 5.4 -13.7 12.5 -15.1c1 -0.2 2.1 -0.3 3.2 -0.3c31.2 0 62.4 0 93.6 0c7.2 0 13.7 5.4 15.1 12.5c0.2 1 0.3 2.1 0.3 3.2c0 15.6 0 31.1 0 46.7z"
                 ></path>
             </g>
-            <g style="animation-name: eaf-1566-3, eaf-1566-4, eaf-1566-5; animation-composition: replace, add, add;">
+            <g>
                 <path
                     fill="#aaaaaa"
                     d="m250.3 520.9l7.6 -0.1l7.6 -0.4l7.6 -0.5c137.6 -11.7 244.3 -124.5 248.3 -262.6l0.1 -7.6l-0.1 -7.6c-4.1 -141 -115.1 -255.2 -255.9 -263.1l-7.6 -0.4l-7.6 -0.1l-7.6 0.1l-7.6 0.4c-137.8 7.7 -247.8 117.7 -255.5 255.5l-0.4 7.6l-0.1 7.6c0.2 141 107.9 258.3 248.5 270.2l7.6 0.5l7.6 0.4l7.5 0.1z"
@@ -81,7 +35,6 @@
                 <path
                     fill="#f4b526"
                     d="m215.4 267.5l1.1 0.8c6.2 5 5.6 13.9 -0.9 18.4l-1.2 0.6l0.1 0l-30.7 14.5l0.1 -0.1l2.6 3.3c28.6 32.9 77.2 38.7 112.7 13.5l3.4 -2.5l0 0.1l1.1 -0.8c3.9 -2.3 9.2 -2.1 12.7 0.8l1.1 0.9l60 59.9l-0.1 0.1l0.9 1c3.3 4.2 3.2 10.5 -0.4 14.5l-1 0.9l0.1 0l-4.8 4.1c-89 72.9 -220.4 52.4 -282.9 -44.2l-3.3 -5.3l-0.1 0.1c0 0 -30.7 14.4 -30.7 14.4l-1.2 0.5c-7.6 2.2 -14.7 -3 -14.7 -11l0.1 -1.3l0 -0.1l23.7 -155.9l0.1 0l0.4 -1.3c1.7 -6.5 9.2 -10.1 15.3 -7.2l1.2 0.6l0 -0.1l135.2999 80.8"
-                    style="animation-name: eaf-1566-2;"
                 ></path>
                 <path
                     fill="#000000"

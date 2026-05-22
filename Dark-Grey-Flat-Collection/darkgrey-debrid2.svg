@@ -18,18 +18,18 @@
             </g>
           </g>
         </g>
-        <animateTransform attributeName="transform" type="translate" from="250 246.8" to="250 246.8" calcMode="discrete" dur="3867ms" repeatCount="indefinite"/>
-        <animateTransform keyTimes="0;0.3018;1" calcMode="linear" dur="3867ms" repeatCount="indefinite" attributeName="transform" values="0;360;360" type="rotate" additive="sum"/>
-        <animateTransform attributeName="transform" type="translate" from="-252.1437 -246.4409" to="-252.1437 -246.4409" calcMode="discrete" dur="3867ms" repeatCount="indefinite" additive="sum"/>
+        
+        
+        
       </g>
       <path fill="#ffffff" d="m268.1 113.5c0.8 1.6 1.4 3.3 2.3 4.8c27.3 43.1 54.5 86.1 81.9 129.1c2.1 3.3 2.3 5.6 0.1 9.1c-27.5 43.1 -54.9 86.3 -82.1 129.6c-2.1 3.3 -4.1 4.6 -8.1 4.5c-24.5 -0.2 -49 -0.1 -74.3 -0.1c1.1 -2 1.9 -3.5 2.8 -5c27.1 -42.7 54.1 -85.5 81.4 -128.2c2.5 -3.8 2.7 -6.5 0.1 -10.5c-27.4 -42.9 -54.7 -86 -81.9 -129.1c-0.9 -1.3 -1.5 -2.8 -2.2 -4.3c26.6 0.1 53.3 0.1 80 0.1z" transform="matrix(0.92 0 0 0.92 18.4241 17.7413)">
-        <animate keyTimes="0;0.4913;0.5604;0.8707;1" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1" dur="3867ms" repeatCount="indefinite" attributeName="fill-opacity" values="1;1;0;0;1"/>
-        <animate keyTimes="0;0.4913;0.5604;0.8707;1" calcMode="linear" dur="3867ms" repeatCount="indefinite" attributeName="stroke-opacity" values="1;1;0;0;1"/>
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="0 0" calcMode="discrete" dur="3867ms" repeatCount="indefinite"/>
-        <animateMotion keyTimes="0;0.2845;0.3791;0.586;0.5862;0.6982;0.7846;1" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.58 1;0.42 0 0.58 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" dur="3867ms" repeatCount="indefinite" attributeName="transform" keyPoints="0;0.0026;0.0824;0.4967;0.5803;0.5803;1;1" path="m248.4241 244.7973l1.5759 2.0027l-78.4374 0l407.3679 0l82.1462 0l0 0l-412.6527 -2.0027" additive="sum"/>
-        <animateTransform keyTimes="0;0.3794;0.6982;0.7846;1" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.58 1;0.42 0 0.58 1;0 0 1 1" dur="3867ms" repeatCount="indefinite" attributeName="transform" values="0;0;180;0;0" type="rotate" additive="sum"/>
-        <animateTransform keyTimes="0;0.3018;0.3879;0.4311;0.5087;1" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0 0 1 1" dur="3867ms" repeatCount="indefinite" attributeName="transform" values="0.92 0.92;0.92 0.92;0.5 0.92;1.4 0.92;0.92 0.92;0.92 0.92" type="scale" additive="sum"/>
-        <animateTransform attributeName="transform" type="translate" from="-250 -246.8" to="-250 -246.8" calcMode="discrete" dur="3867ms" repeatCount="indefinite" additive="sum"/>
+        
+        
+        
+        
+        
+        
+        
       </path>
     </g>
   </g>

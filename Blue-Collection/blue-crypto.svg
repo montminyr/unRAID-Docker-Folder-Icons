@@ -2,119 +2,10 @@
     <defs>
         <clipPath id="eaf-1517f-1"><rect x="0" y="0" width="650" height="650"></rect></clipPath>
         <style>
-            #eaf-1517f-0 * {
-                animation: 6000ms linear infinite normal both running;
-                offset-rotate: 0deg;
-            }
-            @keyframes eaf-1517f-2 {
-                0%,
-                100% {
-                    transform: translate(325px, 309.5px);
-                }
-            }
-            @keyframes eaf-1517f-3 {
-                0% {
-                    transform: rotate(0);
-                }
-                50% {
-                    transform: rotate(0);
-                }
-                99.72%,
-                100% {
-                    transform: rotate(360deg);
-                }
-            }
-            @keyframes eaf-1517f-4 {
-                0%,
-                100% {
-                    transform: translate(-325px, -309.5px);
-                }
-            }
-            @keyframes eaf-1517f-5 {
-                0%,
-                100% {
-                    transform: none;
-                    offset-path: path("m325 329.55l0 0l616.0971 0l0 0l-1254.991 0l638.8939 0");
-                }
-            }
-            @keyframes eaf-1517f-6 {
-                0% {
-                    offset-distance: 0%;
-                }
-                50% {
-                    offset-distance: 0%;
-                }
-                75% {
-                    offset-distance: 24.5459%;
-                }
-                75.83% {
-                    offset-distance: 24.5459%;
-                }
-                77.78% {
-                    offset-distance: 74.5459%;
-                }
-                99.72%,
-                100% {
-                    offset-distance: 100%;
-                }
-            }
-            @keyframes eaf-1517f-7 {
-                0% {
-                    transform: scale(1, 1);
-                }
-                4.72% {
-                    transform: scale(1, 1);
-                    animation-timing-function: ease-in-out;
-                }
-                15.55% {
-                    transform: scale(0.6646, 0.6646);
-                    animation-timing-function: ease-in-out;
-                }
-                18.33% {
-                    transform: scale(0.6588, 0.6588);
-                    animation-timing-function: ease-in-out;
-                }
-                20.28% {
-                    transform: scale(0.69, 0.69);
-                }
-                33.33% {
-                    transform: scale(0.69, 0.69);
-                    animation-timing-function: ease-in-out;
-                }
-                38.05% {
-                    transform: scale(1.1, 1.1);
-                    animation-timing-function: ease-in-out;
-                }
-                39.72%,
-                100% {
-                    transform: scale(1, 1);
-                }
-            }
-            @keyframes eaf-1517f-8 {
-                0%,
-                100% {
-                    transform: translate(-325px, -329.55px);
-                }
-            }
-            @keyframes eaf-1517f-9 {
-                0% {
-                    opacity: 1;
-                }
-                75% {
-                    opacity: 1;
-                }
-                75.83% {
-                    opacity: 0;
-                }
-                77.78% {
-                    opacity: 0;
-                }
-                78.05%,
-                100% {
-                    opacity: 1;
-                }
-            }
-        </style>
+<![CDATA[
+#eaf-1517f-0 *{offset-rotate: 0deg}
+]]>
+</style>
     </defs>
     <g clip-path="url('#eaf-1517f-1')" style="isolation: isolate;">
         <g>
@@ -122,11 +13,11 @@
                 fill="#bee4fa"
                 d="m651.4 325.1c0 81.6 0 163.1 0 244.7c0 37.4 -28.2 71.6 -65 78.6c-5.5 1 -11.1 1.6 -16.6 1.6c-162.6 0 -325.2 0 -487.7 0c-39.9 0 -74.7 -30.6 -79.9 -70.2c-0.5 -3.5 -0.8 -7 -0.8 -10.6c0 -163 0 -326 0 -488.9c0 -37.4 28.2 -71.6 65 -78.6c5.4 -1 11.1 -1.6 16.6 -1.6c162.7 -0.1 325.4 -0.1 488.0999 -0.1c37.4 0 71.6 28.2 78.6 65c1 5.4 1.6 11.1 1.6 16.6c0.1001 81.2 0.1001 162.3 0.1001 243.5l0 0l0 0z"
             ></path>
-            <g transform="translate(0 0)" style="animation-name: eaf-1517f-5, eaf-1517f-6, eaf-1517f-7, eaf-1517f-8, eaf-1517f-9; animation-composition: replace, add, add, add, replace;">
+            <g transform="translate(0 0)">
                 <g style="filter: drop-shadow(rgb(85, 85, 85) 8px 8px 12px);">
                     <g><ellipse fill="#01507b" rx="276.1" ry="276.1" transform="translate(325 340.5)"></ellipse></g>
                 </g>
-                <g style="animation-name: eaf-1517f-2, eaf-1517f-3, eaf-1517f-4; animation-composition: replace, add, add;">
+                <g>
                     <ellipse fill="#fefadf" stroke="#01507b" stroke-width="16" stroke-miterlimit="10" rx="267" ry="267" transform="translate(325 309.5)"></ellipse>
                     <g style="filter: drop-shadow(rgb(191, 191, 191) 9px 9px 2px);">
                         <path

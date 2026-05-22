@@ -1,13 +1,9 @@
 <svg id="er0zs9ajx7h81" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 499.170000 498.380000" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
-    <style>
-        <![CDATA[#er0zs9ajx7h85_tr {animation: er0zs9ajx7h85_tr__tr 35000ms linear infinite normal forwards}@keyframes er0zs9ajx7h85_tr__tr { 0% {transform: translate(250.589844px,249.511719px) rotate(0deg)} 30% {transform: translate(250.589844px,249.511719px) rotate(0deg);animation-timing-function: cubic-bezier(0.600000,-0.020000,0.245000,0.985000)} 54% {transform: translate(250.589844px,249.511719px) rotate(0deg)} 100% {transform: translate(250.589844px,249.511719px) rotate(0deg)} }#er0zs9ajx7h85_ts {animation: er0zs9ajx7h85_ts__ts 3500ms linear infinite normal forwards}@keyframes er0zs9ajx7h85_ts__ts { 0% {transform: scale(1,1)} 68% {transform: scale(1,1);animation-timing-function: cubic-bezier(0.420000,0,0.580000,1)} 76% {transform: scale(1.214359,0.936995);animation-timing-function: cubic-bezier(0.420000,0,0.580000,1)} 80% {transform: scale(1.214359,0.936995);animation-timing-function: cubic-bezier(0.420000,0,0.260000,1.005000)} 86% {transform: scale(0.400000,0.400000);animation-timing-function: cubic-bezier(0.420000,0,0.260000,1.005000)} 92% {transform: scale(0.400000,0.400000);animation-timing-function: cubic-bezier(0.870000,0.015000,0.580000,1)} 100% {transform: scale(1,1)} }]]>
-    </style>
 	
 	<style type="text/css">
-	.st0{fill:#E1F3FD;}
-	.st1{fill:#F6E9C4;}
-	.st2{display:none;fill:#555555;}
-	.st3{fill:#555;}
+<![CDATA[
+.st0{fill:#E1F3FD}.st1{fill:#F6E9C4}.st2{display:none; fill:#555555}.st3{fill:#555}
+]]>
 </style>
     <g id="er0zs9ajx7h82">
         <path

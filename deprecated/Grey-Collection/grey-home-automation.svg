@@ -51,14 +51,15 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="eg6mwedtruuv1" />
   <style
-     id="style2"><![CDATA[#eg6mwedtruuv1{pointer-events: all} #eg6mwedtruuv1:hover * {animation-play-state: running !important}#eg6mwedtruuv7 {animation: eg6mwedtruuv7_f_o 6000ms linear infinite normal forwards}@keyframes eg6mwedtruuv7_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 8.333333% {fill-opacity: 0;animation-timing-function: step-end} 16.666667% {fill-opacity: 1;animation-timing-function: step-end} 25% {fill-opacity: 0;animation-timing-function: step-end} 33.333333% {fill-opacity: 1;animation-timing-function: step-end} 41.666667% {fill-opacity: 0;animation-timing-function: step-end} 100% {fill-opacity: 1} }#eg6mwedtruuv8 {animation: eg6mwedtruuv8_f_o 6000ms linear infinite normal forwards}@keyframes eg6mwedtruuv8_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 50% {fill-opacity: 0;animation-timing-function: step-end} 58.333333% {fill-opacity: 1;animation-timing-function: step-end} 66.666667% {fill-opacity: 0;animation-timing-function: step-end} 75% {fill-opacity: 1;animation-timing-function: step-end} 83.333333% {fill-opacity: 0;animation-timing-function: step-end} 91.666667% {fill-opacity: 1;animation-timing-function: step-end} 100% {fill-opacity: 1} }]]></style>
+     id="style2">
+<![CDATA[
+#eg6mwedtruuv1{pointer-events: all}
+]]>
+</style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{display:none;}
-	.st2{display:inline;}
-	.st3{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
-	.st4{fill:#DDDDDD;}
-	.st5{fill:#01507B;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{display:none}.st2{display:inline}.st3{fill:#FFFFFF; stroke:#01507B; stroke-width:20; stroke-miterlimit:16}.st4{fill:#DDDDDD}.st5{fill:#01507B}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="381.802" cy="385.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#8C8C8C"/>

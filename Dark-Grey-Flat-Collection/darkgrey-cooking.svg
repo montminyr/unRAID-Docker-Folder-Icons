@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg id="cooking-icon-animated" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528.04 528.03" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
-  <style>
-        
-        #cooking-icon-animated-s-g1_to {animation: cooking-icon-animated-s-g1_to__to 3000ms linear infinite normal forwards}@keyframes cooking-icon-animated-s-g1_to__to { 0% {transform: translate(316px,320px);animation-timing-function: cubic-bezier(0,0,0.58,1)} 20% {transform: translate(268.191427px,271.585619px);animation-timing-function: cubic-bezier(0.42,0,1,1)} 26.666667% {transform: translate(268.191427px,271.585619px)} 73.333333% {transform: translate(316px,320px)} 100% {transform: translate(316px,320px)}} #cooking-icon-animated-u-dough-out2_to {animation: cooking-icon-animated-u-dough-out2_to__to 3000ms linear infinite normal forwards}@keyframes cooking-icon-animated-u-dough-out2_to__to { 0% {transform: translate(393.139921px,390.09328px);animation-timing-function: cubic-bezier(0,0,0.58,1)} 23.333333% {transform: translate(378.559612px,375.147286px);animation-timing-function: cubic-bezier(0.42,0,1,1)} 33.333333% {transform: translate(378.559612px,375.147286px);animation-timing-function: cubic-bezier(0,0,0.58,1)} 80% {transform: translate(393.14px,390.09px)} 100% {transform: translate(393.14px,390.09px)}}
-        
-    </style>
   <defs>
     <linearGradient id="cooking-icon-animated-u-bolillo-fill-fill" x1="0.04624" y1="0.536046" x2="0.478084" y2="0.94353" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
       <stop id="cooking-icon-animated-u-bolillo-fill-fill-0" offset="0" stop-color="#535353"/>

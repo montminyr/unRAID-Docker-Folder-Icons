@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg id="ezwy7o85aekh1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 499.170000 498.380000" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
-  <style>
-        #ezwy7o85aekh16_tr {animation: ezwy7o85aekh16_tr__tr 5000ms linear infinite normal forwards}@keyframes ezwy7o85aekh16_tr__tr { 0% {transform: translate(236.539359px,325.606671px) rotate(0deg)} 16% {transform: translate(236.539359px,325.606671px) rotate(-2.659923deg)} 36% {transform: translate(236.539359px,325.606671px) rotate(25.059844deg)} 60% {transform: translate(236.539359px,325.606671px) rotate(5.139156deg)} 80% {transform: translate(236.539359px,325.606671px) rotate(21.080555deg)} 100% {transform: translate(236.539359px,325.606671px) rotate(0deg)} }
-    </style>
   <defs>
     <filter id="ezwy7o85aekh16-filter" x="-400%" width="600%" y="-400%" height="600%">
       <feGaussianBlur id="ezwy7o85aekh16-filter-drop-shadow-0-blur" in="SourceAlpha" stdDeviation="6,6"/>

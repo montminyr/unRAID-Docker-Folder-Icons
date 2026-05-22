@@ -1,18 +1,13 @@
 <svg id="egqz9tzsn5ck1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
-        <![CDATA[#egqz9tzsn5ck1{pointer-events: all} #egqz9tzsn5ck1:hover * {animation-play-state: running !important}
-		
-		#egqz9tzsn5ck7_to {animation: egqz9tzsn5ck7_to__to 30000ms linear infinite normal forwards}@keyframes egqz9tzsn5ck7_to__to { 0% {transform: translate(0px,0px)} 3.333333% {transform: translate(-0.010000px,-32.621792px)} 20% {transform: translate(-0.010000px,98.534615px)} 36.666667% {transform: translate(-0.010000px,-38.050000px)} 53.333333% {transform: translate(-0.010000px,96.256316px)} 70% {transform: translate(-0.010000px,-31.444042px)} 86.666667% {transform: translate(2.060226px,95.257620px)} 100% {transform: translate(0px,0px)} }
-		
-		#egqz9tzsn5ck9_to {animation: egqz9tzsn5ck9_to__to 20000ms linear infinite normal forwards}@keyframes egqz9tzsn5ck9_to__to { 0% {transform: translate(0px,0px)} 3.333333% {transform: translate(0.001446px,43.151611px)} 13.333333% {transform: translate(0.001446px,-88.780827px)} 23.333333% {transform: translate(-0.232752px,43.977479px)} 33.333333% {transform: translate(0.001446px,-84.651486px)} 43.333333% {transform: translate(-0.232752px,43.923951px)} 53.333333% {transform: translate(0.001446px,-88.008155px)} 63.333333% {transform: translate(0.001446px,42.012079px)} 73.333333% {transform: translate(0.001446px,-88.529091px)} 83.333333% {transform: translate(0.001446px,42.354551px)} 93.333333% {transform: translate(0.001446px,-87.146240px)} 100% {transform: translate(0px,0px)} }
-		
-		#egqz9tzsn5ck11_to {animation: egqz9tzsn5ck11_to__to 50000ms linear infinite normal forwards}@keyframes egqz9tzsn5ck11_to__to { 0% {transform: translate(0px,0px)} 30% {transform: translate(0px,77.750000px)} 80% {transform: translate(0px,-47.841157px)} 100% {transform: translate(0px,0px)} }]]>
-    </style>
+<![CDATA[
+#egqz9tzsn5ck1{pointer-events: all}
+]]>
+</style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
-	.st2{fill:#DDDDDD;}
-	.st3{fill:#01507B;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{fill:#FFFFFF; stroke:#01507B; stroke-width:20; stroke-miterlimit:16}.st2{fill:#DDDDDD}.st3{fill:#01507B}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="385.802" cy="384.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFC43D"/>

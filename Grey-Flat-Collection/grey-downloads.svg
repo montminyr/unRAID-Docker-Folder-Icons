@@ -1,7 +1,9 @@
 <svg id="e1nlkakh7q6e1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
-        <![CDATA[#e1nlkakh7q6e1{pointer-events: all} #e1nlkakh7q6e1:hover * {animation-play-state: running !important}#e1nlkakh7q6e6_to {animation: e1nlkakh7q6e6_to__to 800ms linear infinite normal forwards}@keyframes e1nlkakh7q6e6_to__to { 0% {transform: translate(0px,0px)} 25% {transform: translate(0px,6px)} 75% {transform: translate(0px,-6px)} 100% {transform: translate(0px,0px)} }]]>
-    </style>
+<![CDATA[
+#e1nlkakh7q6e1{pointer-events: all}
+]]>
+</style>
     <g id="e1nlkakh7q6e2" transform="matrix(4 0 0 4 -802.31994628000018 -2317.32641599500039)">
         <path
             id="e1nlkakh7q6e3"

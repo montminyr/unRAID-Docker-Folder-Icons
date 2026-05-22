@@ -1,12 +1,13 @@
 <svg id="ef20ojojlv51" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
-        <![CDATA[#ef20ojojlv51{pointer-events: all} #ef20ojojlv51:hover * {animation-play-state: running !important}#ef20ojojlv54_tr {animation: ef20ojojlv54_tr__tr 11500ms linear infinite normal forwards}@keyframes ef20ojojlv54_tr__tr { 0% {transform: translate(381.556015px,384.486542px) rotate(0deg)} 100% {transform: translate(381.556015px,384.486542px) rotate(-360deg)} }]]>
-    </style>
+<![CDATA[
+#ef20ojojlv51{pointer-events: all}
+]]>
+</style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
-	.st2{fill:#DDDDDD;}
-	.st3{fill:#01507B;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{fill:#FFFFFF; stroke:#01507B; stroke-width:20; stroke-miterlimit:16}.st2{fill:#DDDDDD}.st3{fill:#01507B}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="385.802" cy="384.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFC43D"/>

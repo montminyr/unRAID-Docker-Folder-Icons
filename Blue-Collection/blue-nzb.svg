@@ -51,7 +51,11 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="eg8ecku0pdl71" />
   <style
-     id="style2"><![CDATA[#eg8ecku0pdl71{pointer-events: all} #eg8ecku0pdl71:hover * {animation-play-state: running !important}#eg8ecku0pdl75_to {animation: eg8ecku0pdl75_to__to 4600ms linear infinite normal forwards}@keyframes eg8ecku0pdl75_to__to { 0% {transform: translate(320.055000px,725.661539px);animation-timing-function: cubic-bezier(0.420000,0,0.580000,1)} 50% {transform: translate(320.055000px,658px)} 100% {transform: translate(320.055000px,725.661539px)} }]]></style>
+     id="style2">
+<![CDATA[
+#eg8ecku0pdl71{pointer-events: all}
+]]>
+</style>
   <g
      id="eg8ecku0pdl72"
      transform="matrix(4 0 0 4 -887.02322387999993 -2344.00634764500001)">

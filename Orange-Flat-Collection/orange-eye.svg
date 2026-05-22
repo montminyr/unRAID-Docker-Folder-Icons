@@ -1,7 +1,9 @@
 <svg id="epw0jhjv2c31" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
-        <![CDATA[#epw0jhjv2c31{pointer-events: all} #epw0jhjv2c31:hover * {animation-play-state: running !important}#epw0jhjv2c35 {animation: epw0jhjv2c35_c_o 6000ms linear infinite normal forwards}@keyframes epw0jhjv2c35_c_o { 0% {opacity: 1} 16.666667% {opacity: 1;animation-timing-function: step-end} 20% {opacity: 0;animation-timing-function: step-end} 23.333333% {opacity: 1} 100% {opacity: 1} }#epw0jhjv2c39 {animation: epw0jhjv2c39_f_o 6000ms linear infinite normal forwards}@keyframes epw0jhjv2c39_f_o { 0% {fill-opacity: 0} 16.666667% {fill-opacity: 0;animation-timing-function: step-end} 20% {fill-opacity: 1;animation-timing-function: step-end} 23.333333% {fill-opacity: 0} 100% {fill-opacity: 0} }]]>
-    </style>
+<![CDATA[
+#epw0jhjv2c31{pointer-events: all}
+]]>
+</style>
     <g id="epw0jhjv2c32" transform="matrix(4 0 0 4 -846.84002684000006 -2287.91992187500000)">
         <path
             id="epw0jhjv2c33"

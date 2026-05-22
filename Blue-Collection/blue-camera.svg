@@ -3,40 +3,10 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191.79 191.79">
   <defs>
     <style>
-      .cls-1 {
-        fill: #01507b;
-      }
-
-      .cls-2 {
-        fill: #ffd528;
-      }
-
-      .cls-2a {
-        fill: #fff;
-      }
-
-      .cls-3 {
-        fill: #ffd528;
-
-      }
-
-      .cls-4 {
-        fill: #bee4fa;
-      }
-	  
-	  
-	<![CDATA[#Layer_1{pointer-events: all} 
-		#Layer_1:hover * {animation-play-state: running !important}
-		  #star {animation: star_f_o 2500ms linear infinite normal forwards}
-		  @keyframes star_f_o { 
-			  0% {fill-opacity: 1;animation-timing-function: step-end} 
-			  25% {fill-opacity: 0;animation-timing-function: step-end} 
-			  100% {fill-opacity: 0;animation-timing-function: step-end} 
-			  2% {fill-opacity: 1} 100% {fill-opacity: 1} 
-		  }
-	]]>
-	  
-    </style>
+<![CDATA[
+.cls-1{fill: #01507b}.cls-2{fill: #ffd528}.cls-2a{fill: #fff}.cls-3{fill: #ffd528}.cls-4{fill: #bee4fa}#Layer_1{pointer-events: all}
+]]>
+</style>
 	
 	
 	

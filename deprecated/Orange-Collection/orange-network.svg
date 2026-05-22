@@ -1,63 +1,8 @@
 <svg id="network" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 769 769" width="500" height="500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
-    <style>
-        @keyframes packet_animation__to {
-            0%,
-            6.666667%,
-            90%,
-            to {
-                transform: translate(-51.09385px, 385.658px);
-            }
-            13.333333%,
-            73.333333% {
-                transform: translate(-51.09385px, 420.658px);
-            }
-            23.333333%,
-            36.666667% {
-                transform: translate(-104.84385px, 420.658px);
-            }
-            24.333333% {
-                transform: translate(-111.6561px, 422.543914px);
-            }
-            25.333333% {
-                transform: translate(-115.694271px, 428.132803px);
-            }
-            30% {
-                transform: translate(-115.84385px, 460.658px);
-            }
-            34.666667% {
-                transform: translate(-115.69385px, 428.133px);
-            }
-            35.666667% {
-                transform: translate(-111.65635px, 422.543px);
-            }
-            53.333333%,
-            66.666667% {
-                transform: translate(2.65615px, 420.658px);
-            }
-            54.333333%,
-            65.666667% {
-                transform: translate(10.65615px, 424.158px);
-            }
-            55.333333%,
-            64.666667% {
-                transform: translate(12.90615px, 428.158px);
-            }
-            60% {
-                transform: translate(12.90615px, 460.658px);
-            }
-            80% {
-                transform: translate(-51.09385px, 460.658px);
-            }
-        }
-        #packet_animation {
-            animation: packet_animation__to 6000ms linear infinite normal forwards;
-        }
-    </style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
-	.st2{fill:#DDDDDD;}
-	.st3{fill:#01507B;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{fill:#FFFFFF; stroke:#01507B; stroke-width:20; stroke-miterlimit:16}.st2{fill:#DDDDDD}.st3{fill:#01507B}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="385.802" cy="384.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFC43D"/>

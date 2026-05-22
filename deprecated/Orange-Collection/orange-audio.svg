@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg id="e0fi2jgm3hnzn1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
-        <![CDATA[#eq6cs4bz8ytl1{pointer-events: all}#eq6cs4bz8ytl1:hover * {animation-play-state: running !important}#eq6cs4bz8ytl3_ts {animation: eq6cs4bz8ytl3_ts__ts 3000ms linear infinite normal forwards}@keyframes eq6cs4bz8ytl3_ts__ts { 0% {transform: translate(213.750000px,349.749032px) scale(1,1)} 36.666667% {transform: translate(213.750000px,349.749032px) scale(1,1)} 43.333333% {transform: translate(213.750000px,349.749032px) scale(1.050000,1.050000)} 50% {transform: translate(213.750000px,349.749032px) scale(1,1)} 56.666667% {transform: translate(213.750000px,349.749032px) scale(1.050000,1.050000)} 63.333333% {transform: translate(213.750000px,349.749032px) scale(1,1)} 100% {transform: translate(213.750000px,349.749032px) scale(1,1)} }#eq6cs4bz8ytl4 {animation: eq6cs4bz8ytl4_f_o 3000ms linear infinite normal forwards}@keyframes eq6cs4bz8ytl4_f_o { 0% {fill-opacity: 0} 16.666667% {fill-opacity: 0} 33.333333% {fill-opacity: 1} 66.666667% {fill-opacity: 1} 83.333333% {fill-opacity: 0} 100% {fill-opacity: 0} }#eq6cs4bz8ytl5 {animation: eq6cs4bz8ytl5_f_o 3000ms linear infinite normal forwards}@keyframes eq6cs4bz8ytl5_f_o { 0% {fill-opacity: 0} 16.666667% {fill-opacity: 1} 83.333333% {fill-opacity: 1} 100% {fill-opacity: 0} }]]>
-    </style>
+<![CDATA[
+#eq6cs4bz8ytl1{pointer-events: all}
+]]>
+</style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
-	.st2{fill:#DDDDDD;}
-	.st3{fill:#01507B;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{fill:#FFFFFF; stroke:#01507B; stroke-width:20; stroke-miterlimit:16}.st2{fill:#DDDDDD}.st3{fill:#01507B}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="385.802" cy="384.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFC43D"/>

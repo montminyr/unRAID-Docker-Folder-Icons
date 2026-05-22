@@ -51,7 +51,11 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="eg6mwedtruuv1" />
   <style
-     id="style2"><![CDATA[#eg6mwedtruuv1{pointer-events: all} #eg6mwedtruuv1:hover * {animation-play-state: running !important}#eg6mwedtruuv7 {animation: eg6mwedtruuv7_f_o 6000ms linear infinite normal forwards}@keyframes eg6mwedtruuv7_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 8.333333% {fill-opacity: 0;animation-timing-function: step-end} 16.666667% {fill-opacity: 1;animation-timing-function: step-end} 25% {fill-opacity: 0;animation-timing-function: step-end} 33.333333% {fill-opacity: 1;animation-timing-function: step-end} 41.666667% {fill-opacity: 0;animation-timing-function: step-end} 100% {fill-opacity: 1} }#eg6mwedtruuv8 {animation: eg6mwedtruuv8_f_o 6000ms linear infinite normal forwards}@keyframes eg6mwedtruuv8_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 50% {fill-opacity: 0;animation-timing-function: step-end} 58.333333% {fill-opacity: 1;animation-timing-function: step-end} 66.666667% {fill-opacity: 0;animation-timing-function: step-end} 75% {fill-opacity: 1;animation-timing-function: step-end} 83.333333% {fill-opacity: 0;animation-timing-function: step-end} 91.666667% {fill-opacity: 1;animation-timing-function: step-end} 100% {fill-opacity: 1} }]]></style>
+     id="style2">
+<![CDATA[
+#eg6mwedtruuv1{pointer-events: all}
+]]>
+</style>
   <g
      id="eg6mwedtruuv2"
      transform="matrix(4 0 0 4 -827.28002927999989 -2254.52636720500004)">

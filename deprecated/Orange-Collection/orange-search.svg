@@ -51,7 +51,11 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="e0lirv1yvuvyd1" />
   <style
-     id="style2"><![CDATA[#e0lirv1yvuvyd1{pointer-events: all} #e0lirv1yvuvyd1:hover * {animation-play-state: running !important}#e0lirv1yvuvyd5_tr {animation: e0lirv1yvuvyd5_tr__tr 4000ms linear infinite normal forwards}@keyframes e0lirv1yvuvyd5_tr__tr { 0% {transform: translate(250px,450px) rotate(0deg)} 25% {transform: translate(250px,450px) rotate(-17deg)} 75% {transform: translate(250px,450px) rotate(17deg)} 100% {transform: translate(250px,450px) rotate(0deg)} }]]></style>
+     id="style2">
+<![CDATA[
+#e0lirv1yvuvyd1{pointer-events: all}
+]]>
+</style>
  
 
     <defs>

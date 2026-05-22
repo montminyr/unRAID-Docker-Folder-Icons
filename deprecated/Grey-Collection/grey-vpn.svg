@@ -1,7 +1,9 @@
 <svg id="vpn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 769 769" width="500" height="500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
   <style>
-    @keyframes shine_gradient5_f_o{0%,53.333333%{fill-opacity:1}60%,to{fill-opacity:0}}@keyframes shine_gradient4_f_o{0%,50%{fill-opacity:1}56.666667%,to{fill-opacity:0}}@keyframes shine_gradient3_f_o{0%,46.666667%{fill-opacity:1}53.333333%,to{fill-opacity:0}}@keyframes shine_gradient2_f_o{0%,43.333333%{fill-opacity:1}50%,to{fill-opacity:0}}@keyframes shine_gradient1_f_o{0%,40%{fill-opacity:1}46.666667%,to{fill-opacity:0}}#vpn{pointer-events:all} #vpn:hover *{animation-play-state:running!important}#shine_gradient5{animation:shine_gradient5_f_o 4000ms linear infinite normal forwards}#shine_gradient4{animation:shine_gradient4_f_o 4000ms linear infinite normal forwards}#shine_gradient3{animation:shine_gradient3_f_o 4000ms linear infinite normal forwards}#shine_gradient2{animation:shine_gradient2_f_o 4000ms linear infinite normal forwards}#shine_gradient1{animation:shine_gradient1_f_o 4000ms linear infinite normal forwards}
-  </style>
+<![CDATA[
+#vpn{pointer-events:all}
+]]>
+</style>
   <defs>
     <linearGradient id="shine_gradient5-fill" x1=".421" y1=".408" x2=".881" y2=".796" spreadMethod="pad" gradientUnits="objectBoundingBox">
       <stop id="shine_gradient5-fill-0" offset="0%" stop-color="#ffbf00"/>
@@ -22,10 +24,9 @@
   </defs>
 
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
-	.st2{fill:#DDDDDD;}
-	.st3{fill:#01507B;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{fill:#FFFFFF; stroke:#01507B; stroke-width:20; stroke-miterlimit:16}.st2{fill:#DDDDDD}.st3{fill:#01507B}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="385.802" cy="384.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#8C8C8C"/>

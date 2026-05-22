@@ -50,16 +50,11 @@
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="e0lirv1yvuvyd1" />
-
-    <style>
-        <![CDATA[#er0zs9ajx7h85_tr {animation: er0zs9ajx7h85_tr__tr 35000ms linear infinite normal forwards}@keyframes er0zs9ajx7h85_tr__tr { 0% {transform: translate(250.589844px,249.511719px) rotate(0deg)} 30% {transform: translate(250.589844px,249.511719px) rotate(0deg);animation-timing-function: cubic-bezier(0.600000,-0.020000,0.245000,0.985000)} 54% {transform: translate(250.589844px,249.511719px) rotate(0deg)} 100% {transform: translate(250.589844px,249.511719px) rotate(0deg)} }#er0zs9ajx7h85_ts {animation: er0zs9ajx7h85_ts__ts 3500ms linear infinite normal forwards}@keyframes er0zs9ajx7h85_ts__ts { 0% {transform: scale(1,1)} 68% {transform: scale(1,1);animation-timing-function: cubic-bezier(0.420000,0,0.580000,1)} 76% {transform: scale(1.214359,0.936995);animation-timing-function: cubic-bezier(0.420000,0,0.580000,1)} 80% {transform: scale(1.214359,0.936995);animation-timing-function: cubic-bezier(0.420000,0,0.260000,1.005000)} 86% {transform: scale(0.400000,0.400000);animation-timing-function: cubic-bezier(0.420000,0,0.260000,1.005000)} 92% {transform: scale(0.400000,0.400000);animation-timing-function: cubic-bezier(0.870000,0.015000,0.580000,1)} 100% {transform: scale(1,1)} }]]>
-    </style>
 	
 	<style type="text/css">
-	.st0{fill:#efcc2a;}
-	.st1{fill:#F6E9C4;}
-	.st2{display:none;fill:#ffffff;}
-	.st3{fill:#ffffff;}
+<![CDATA[
+.st0{fill:#efcc2a}.st1{fill:#F6E9C4}.st2{display:none; fill:#ffffff}.st3{fill:#ffffff}
+]]>
 </style>
 
     <defs>

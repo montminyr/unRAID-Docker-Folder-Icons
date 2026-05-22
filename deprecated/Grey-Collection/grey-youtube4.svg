@@ -1,7 +1,4 @@
 <svg id="eich9ogde7sh1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 499.170000 498.380000" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
-    <style>
-        <![CDATA[#eich9ogde7sh3 {animation: eich9ogde7sh3_c_o 4000ms linear infinite normal forwards}@keyframes eich9ogde7sh3_c_o { 0% {opacity: 0;animation-timing-function: cubic-bezier(0.445000,0.050000,0.550000,0.950000)} 17.500000% {opacity: 1;animation-timing-function: cubic-bezier(0.445000,0.050000,0.550000,0.950000)} 75% {opacity: 1;animation-timing-function: cubic-bezier(0.445000,0.050000,0.550000,0.950000)} 87.500000% {opacity: 0} 100% {opacity: 0} }#eich9ogde7sh14_to {animation: eich9ogde7sh14_to__to 4000ms linear infinite normal forwards}@keyframes eich9ogde7sh14_to__to { 0% {transform: translate(0px,-324.433651px);animation-timing-function: cubic-bezier(0.420000,0,0.580000,1)} 22.500000% {transform: translate(0px,0px)} 100% {transform: translate(0px,0px)} }#eich9ogde7sh14 {animation: eich9ogde7sh14_c_o 4000ms linear infinite normal forwards}@keyframes eich9ogde7sh14_c_o { 0% {opacity: 1} 75% {opacity: 1;animation-timing-function: cubic-bezier(0.445000,0.050000,0.550000,0.950000)} 92.500000% {opacity: 0} 100% {opacity: 0} }]]>
-    </style>
     <defs>
         <radialGradient id="eo3z0svo1z33-fill" cx="250.357201" cy="249.769770" r="383.733600" spreadMethod="pad" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#8C8C8C"/>

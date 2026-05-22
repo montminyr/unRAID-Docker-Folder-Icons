@@ -9,61 +9,6 @@
     export-id="04fd2a16504a42a4b07693a27afcc226"
     cached="false"
 >
-    <style>
-svg[viewBox="0 0 500 500"]:has(> #ai-nextcloud-logo-s-g1):has(#ai-nextcloud-logo-s-g1 > #ai-nextcloud-logo-s-rect1):has(#ai-nextcloud-logo-s-g1 > #ai-nextcloud-logo-s-path1):has(#ai-nextcloud-logo-s-g1
-        > #ai-nextcloud-logo-s-g2):has(#ai-nextcloud-logo-s-g2 > #ai-nextcloud-logo-s-path2):has(#ai-nextcloud-logo-s-g2 > #ai-nextcloud-logo-s-mask1):has(#ai-nextcloud-logo-s-mask1
-        > #ai-nextcloud-logo-s-path3_tr):has(#ai-nextcloud-logo-s-path3_tr > #ai-nextcloud-logo-s-path3):has(#ai-nextcloud-logo-s-g1 > #ai-nextcloud-logo-s-path4_tr):has(#ai-nextcloud-logo-s-path4_tr > #ai-nextcloud-logo-s-path4)
-    #ai-nextcloud-logo-u-nextcloudlogo_tr {
-    animation: ai-nextcloud-logo-u-nextcloudlogo_tr__tr 5300ms linear infinite normal forwards;
-}
-@keyframes ai-nextcloud-logo-u-nextcloudlogo_tr__tr {
-    0% {
-        transform: translate(250.099998px, 250.099998px) rotate(0deg);
-        animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);
-    }
-    37.735849% {
-        transform: translate(250.099998px, 250.099998px) rotate(0deg);
-        animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);
-    }
-    58.490566% {
-        transform: translate(250.099998px, 250.099998px) rotate(-180deg);
-    }
-    100% {
-        transform: translate(250.099998px, 250.099998px) rotate(-180deg);
-    }
-}
-svg[viewBox="0 0 500 500"]:has(> #ai-nextcloud-logo-s-g1):has(#ai-nextcloud-logo-s-g1 > #ai-nextcloud-logo-s-rect1):has(#ai-nextcloud-logo-s-g1 > #ai-nextcloud-logo-s-path1):has(#ai-nextcloud-logo-s-g1
-        > #ai-nextcloud-logo-s-g2):has(#ai-nextcloud-logo-s-g2 > #ai-nextcloud-logo-s-path2):has(#ai-nextcloud-logo-s-g2 > #ai-nextcloud-logo-s-mask1):has(#ai-nextcloud-logo-s-mask1
-        > #ai-nextcloud-logo-s-path3_tr):has(#ai-nextcloud-logo-s-path3_tr > #ai-nextcloud-logo-s-path3):has(#ai-nextcloud-logo-s-g1 > #ai-nextcloud-logo-s-path4_tr):has(#ai-nextcloud-logo-s-path4_tr > #ai-nextcloud-logo-s-path4)
-    #ai-nextcloud-logo-u-nextcloudlogo_tk {
-    animation: ai-nextcloud-logo-u-nextcloudlogo_tk__tk 5300ms linear infinite normal forwards;
-}
-@keyframes ai-nextcloud-logo-u-nextcloudlogo_tk__tk {
-    0% {
-        transform: skewX(0deg) skewY(0deg);
-    }
-    66.037736% {
-        transform: skewX(0deg) skewY(0deg);
-        animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);
-    }
-    77.358491% {
-        transform: skewX(24deg) skewY(0deg);
-        animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);
-    }
-    88.679245% {
-        transform: skewX(-24deg) skewY(0deg);
-        animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);
-    }
-    100% {
-        transform: skewX(0deg) skewY(0deg);
-    }
-}
-
-
-
-
-
-    </style>
     <path
         id="ai-nextcloud-logo-u-background"
         d="M499.9,249.9c0,62.4,0,125.2,0,187.6c0,28.8-21.6,54.8-50,60.4-4,.8-8.4,1.2-12.8,1.2-124.8,0-249.6,0-374.4,0-30.4,0-57.2-23.6-61.2-54-.4-2.8-.4-5.6-.4-8c0-125.2,0-250,0-375.2c0-28.8,21.6-54.8,50-60.4c4-.8,8.4-1.2,12.8-1.2c124.8,0,249.6,0,374.4,0c28.8,0,54.8,21.6,60.4,50c.8,4,1.2,8.4,1.2,12.8c0,62.4,0,124.4,0,186.8v0Z"

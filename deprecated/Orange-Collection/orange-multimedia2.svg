@@ -1,81 +1,8 @@
 <svg id="multimedia" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 769 769" width="500" height="500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
-    <style>
-        @keyframes slider_f_o {
-            0%,
-            35% {
-                fill-opacity: 1;
-                animation-timing-function: step-end;
-            }
-            19%,
-            65% {
-                fill-opacity: 0;
-                animation-timing-function: step-end;
-            }
-            to {
-                fill-opacity: 0;
-            }
-        }
-        @keyframes play_animation__to {
-            0%,
-            to {
-                transform: translate(0.194403px, 0);
-            }
-            19%,
-            35% {
-                transform: translate(40.194403px, 0);
-            }
-            65%,
-            82% {
-                transform: translate(107.694403px, 0);
-            }
-        }
-        @keyframes pause_animation_c_o {
-            0%,
-            35%,
-            82% {
-                opacity: 0;
-                animation-timing-function: step-end;
-            }
-            19%,
-            65% {
-                opacity: 1;
-                animation-timing-function: step-end;
-            }
-            to {
-                opacity: 0;
-            }
-        }
-        @keyframes rewind_animation_c_o {
-            0% {
-                opacity: 0;
-                animation-timing-function: step-end;
-            }
-            82% {
-                opacity: 1;
-                animation-timing-function: step-end;
-            }
-            to {
-                opacity: 1;
-            }
-        }
-        #slider {
-            animation: slider_f_o 10000ms linear infinite normal forwards;
-        }
-        #play_animation {
-            animation: play_animation__to 10000ms linear infinite normal forwards;
-        }
-        #pause_animation {
-            animation: pause_animation_c_o 10000ms linear infinite normal forwards;
-        }
-        #rewind_animation {
-            animation: rewind_animation_c_o 10000ms linear infinite normal forwards;
-        }
-    </style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:#FFFFFF;stroke:#fff;stroke-width:20;stroke-miterlimit:16;}
-	.st2{fill:#DDDDDD;}
-	.st3{fill:#fff;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{fill:#FFFFFF; stroke:#fff; stroke-width:20; stroke-miterlimit:16}.st2{fill:#DDDDDD}.st3{fill:#fff}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="385.802" cy="384.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFC43D"/>

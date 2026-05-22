@@ -1,12 +1,13 @@
 <svg id="ey3w0brz1361" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
-        <![CDATA[#ey3w0brz1361{pointer-events: all} #ey3w0brz1361:hover * {animation-play-state: running !important}#ey3w0brz1365_ts {animation: ey3w0brz1365_ts__ts 3000ms linear infinite normal forwards}@keyframes ey3w0brz1365_ts__ts { 0% {transform: translate(319.537322px,683.248836px) scale(1,1)} 50% {transform: translate(319.537322px,683.248836px) scale(1,1)} 53.333333% {transform: translate(319.537322px,683.248836px) scale(0.800000,0.800000)} 56.666667% {transform: translate(319.537322px,683.248836px) scale(1,1)} 100% {transform: translate(319.537322px,683.248836px) scale(1,1)} }#ey3w0brz1366_to {animation: ey3w0brz1366_to__to 3000ms linear infinite normal forwards}@keyframes ey3w0brz1366_to__to { 0% {transform: translate(319.226515px,660.270000px)} 3.333333% {transform: translate(319.226515px,650.270000px)} 50% {transform: translate(319.226515px,650.270000px)} 53.333333% {transform: translate(319.226515px,660.270000px)} 100% {transform: translate(319.226515px,660.270000px)} }]]>
-    </style>
+<![CDATA[
+#ey3w0brz1361{pointer-events: all}
+]]>
+</style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
-	.st2{fill:#DDDDDD;}
-	.st3{fill:#01507B;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{fill:#FFFFFF; stroke:#01507B; stroke-width:20; stroke-miterlimit:16}.st2{fill:#DDDDDD}.st3{fill:#01507B}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="385.802" cy="384.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFC43D"/>

@@ -51,14 +51,15 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="eckuiflyin61" />
   <style
-     id="style2"><![CDATA[#eckuiflyin61{pointer-events: all} #eckuiflyin61:hover * {animation-play-state: running !important}#eckuiflyin63_to {animation: eckuiflyin63_to__to 3000ms linear infinite normal forwards}@keyframes eckuiflyin63_to__to { 0% {transform: translate(1600px,-800px)} 16.666667% {transform: translate(1600px,-800px)} 23.333333% {transform: translate(800px,0px)} 100% {transform: translate(800px,0px)} }#eckuiflyin63_tr {animation: eckuiflyin63_tr__tr 3000ms linear infinite normal forwards}@keyframes eckuiflyin63_tr__tr { 0% {transform: rotate(0deg)} 86.666667% {transform: rotate(0deg)} 100% {transform: rotate(-180deg)} }#eckuiflyin64_to {animation: eckuiflyin64_to__to 3000ms linear infinite normal forwards}@keyframes eckuiflyin64_to__to { 0% {transform: translate(-800px,-800px)} 30% {transform: translate(-800px,-800px)} 36.666667% {transform: translate(0px,0px)} 100% {transform: translate(0px,0px)} }#eckuiflyin64_tr {animation: eckuiflyin64_tr__tr 3000ms linear infinite normal forwards}@keyframes eckuiflyin64_tr__tr { 0% {transform: rotate(0deg)} 86.666667% {transform: rotate(0deg)} 100% {transform: rotate(180deg)} }#eckuiflyin65_to {animation: eckuiflyin65_to__to 3000ms linear infinite normal forwards}@keyframes eckuiflyin65_to__to { 0% {transform: translate(391.268881px,389.806746px)} 20% {transform: translate(391.268881px,389.806746px)} 23.333333% {transform: translate(391.268881px,400px)} 26.666667% {transform: translate(391.268881px,389.806746px)} 33.333333% {transform: translate(391.268881px,389.806746px)} 36.666667% {transform: translate(391.268881px,400px)} 40% {transform: translate(391.268881px,389.806746px)} 100% {transform: translate(391.268881px,389.806746px)} }#eckuiflyin610_ts {animation: eckuiflyin610_ts__ts 3000ms linear infinite normal forwards}@keyframes eckuiflyin610_ts__ts { 0% {transform: translate(322.862592px,686.351955px) scale(1,1)} 60% {transform: translate(322.862592px,686.351955px) scale(1,1)} 63.333333% {transform: translate(322.862592px,686.351955px) scale(1,0.100000)} 66.666667% {transform: translate(322.862592px,686.351955px) scale(1,0.100000)} 70% {transform: translate(322.862592px,686.351955px) scale(1,1)} 100% {transform: translate(322.862592px,686.351955px) scale(1,1)} }]]></style>
+     id="style2">
+<![CDATA[
+#eckuiflyin61{pointer-events: all}
+]]>
+</style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{display:none;}
-	.st2{display:inline;}
-	.st3{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
-	.st4{fill:#DDDDDD;}
-	.st5{fill:#01507B;}
+<![CDATA[
+.st0{fill:url(#SVGID_1_)}.st1{display:none}.st2{display:inline}.st3{fill:#FFFFFF; stroke:#01507B; stroke-width:20; stroke-miterlimit:16}.st4{fill:#DDDDDD}.st5{fill:#01507B}
+]]>
 </style>
 <radialGradient id="SVGID_1_" cx="381.802" cy="385.6929" r="383.1984" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFC43D"/>
