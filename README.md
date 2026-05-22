@@ -1,8 +1,8 @@
 # Static "Docker-Folder" Icons for unRAID
 
 > **Notice:** This repository is a fork. All icons provided in this collection have been modified to be **static (non-animated) versions** of the originals.
->
-> ---
+
+---
 
 
 # Animated "Docker-Folder" Icons for unRAID
